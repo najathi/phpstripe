@@ -1,1 +1,1 @@
-# phpstripe-3d-secure-payment
+# php-stripe-3d-secure-payment
